@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "secureip" --snapshot "Test_ethernet_behav" "xil_defaultlib.Test_ethernet" -log "elaborate.log" 
